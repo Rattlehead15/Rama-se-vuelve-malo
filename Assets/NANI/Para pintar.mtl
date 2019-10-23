@@ -1,0 +1,10 @@
+newmtl Material combinado: objMesh
+Ka 0.117647 0.117647 0.117647
+Kd 0.972549 0.968627 0.941176
+Ks 0.029176 0.029176 0.029176
+Ns 10.556064
+d 1.000000
+Tr 0.000000
+map_Kd Combinación de objMesh - Textura Difusión.PNG 
+map_Bump Combinación de objMesh - Textura Rugosidad.PNG 
+

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Pito Pito Literature Club.unity
+  isLoaded: 1
+  isActive: 1
